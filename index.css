@@ -1,0 +1,15 @@
+body{
+  margin: 8px;
+}
+
+.wrapper {
+  width: 770px;
+  height: 1000px;
+  margin: auto;
+  position: relative;
+}
+
+img {
+  border-radius: 10px;
+  position: absolute;
+}
