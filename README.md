@@ -1,6 +1,11 @@
 # jQuery实现瀑布流布局
 
 ---
+### 效果图：   
+<img src="https://github.com/Hyung7/waterfallLayout/blob/master/pic/pic1.png" height=400 />
+<img src="https://github.com/Hyung7/waterfallLayout/blob/master/pic/pic2.png" height=400 />
+
+---
 ### 大概思路：
 瀑布流布局的特点是元素等宽不等高。添加图片时，找到最短的那一列，将图片插入，并更新当前列高度，依此类推。
 
