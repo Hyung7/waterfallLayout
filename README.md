@@ -1,9 +1,8 @@
 # jQuery实现瀑布流布局
 
 ---
-### 效果图：   
-<img src="https://github.com/Hyung7/waterfallLayout/blob/master/pic/pic1.png" height=400 />
-<img src="https://github.com/Hyung7/waterfallLayout/blob/master/pic/pic2.png" height=400 />
+### 效果展示：   
+[https://hyung7.github.io/waterfallLayout/](https://hyung7.github.io/waterfallLayout/)
 
 ---
 ### 大概思路：
